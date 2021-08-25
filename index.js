@@ -7,3 +7,4 @@ gwdasdasda;
 let duc = () => {
   return 0;
 };
+console.log("added");
