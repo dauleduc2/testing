@@ -7,6 +7,9 @@ gwdasdasda;
 let duc = () => {
     return 0;
 };
+<<<<<<< HEAD
+console.log("added");
+=======
 
 asoidfjioasjfa;
 huhuiahuhu;
@@ -17,3 +20,4 @@ huhuiahuhu;
 uuuuuuuuuu;
 
 asdadas;
+>>>>>>> origin/master
