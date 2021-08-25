@@ -10,6 +10,10 @@ let duc = () => {
 
 asoidfjioasjfa;
 huhuiahuhu;
+
+00000000000000
+1111111111111111
+2222222222222222
 uuuuuuuuuu;
 
 asdadas;
